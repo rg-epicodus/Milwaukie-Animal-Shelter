@@ -1,0 +1,76 @@
+body {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.profile1 {
+  float: left;
+  width: 300px;
+  font-size: 18px;
+  padding: 2px;
+  border: 2px solid black;
+  margin: 12px;
+  background-color: pink;
+}
+
+.profile2 {
+  float: left;
+  width: 300px;
+  font-size: 18px;
+  padding: 2px;
+  border: 2px solid black;
+  margin: 12px;
+  background-color: pink;
+  margin-left: 25px;
+}
+
+.profile3 {
+  float: left;
+  width: 300px;
+  font-size: 18px;
+  padding: 2px;
+  border: 2px solid black;
+  margin: 12px;
+  background-color: pink;
+  margin-left: 25px;
+}
+
+.profile4 {
+  float: left;
+  width: 300px;
+  font-size: 18px;
+  padding: 2px;
+  border: 2px solid black;
+  margin: 12px;
+  background-color: pink;
+  margin-left: 25px;
+}
+
+
+.profile1 img {
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 240px;
+}
+
+.profile2 img {
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 240px;
+}
+
+.profile3 img {
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 240px;
+}
+
+.profile4 img {
+  width: auto;
+  height: auto;
+  max-width: 300px;
+  max-height: 240px;
+}
